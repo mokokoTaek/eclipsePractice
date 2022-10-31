@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<table>
+	<th>let's gogogogogogoogogogoggoogogogogogogogooggooggogogogoggoo</th>
+	</table>
 
 </body>
 </html>
